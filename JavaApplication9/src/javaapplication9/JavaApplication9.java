@@ -21,9 +21,9 @@ public class JavaApplication9 {
         System.out.println("พ่อมึงตาย");
         System.out.println("แม่มึงตายยย");
         System.out.println("หมาตาย");
-         System.out.println("หยกตาย");
-          System.out.println("กายตาย");
-           System.out.println("กูเอง กูตายเอง");
+        System.out.println("หยกตาย");
+        System.out.println("กายตาย");
+        System.out.println("กูเอง กูตายเอง");
          
     }
     
