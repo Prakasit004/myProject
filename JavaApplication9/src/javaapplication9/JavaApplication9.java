@@ -22,6 +22,7 @@ public class JavaApplication9 {
         System.out.println("แม่มึงตายยย");
         System.out.println("หมาตาย");
          System.out.println("หยกตาย");
+         System.out.println("หมาตาย");
     }
     
 }
