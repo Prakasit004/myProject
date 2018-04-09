@@ -19,6 +19,7 @@ public class JavaApplication9 {
         System.out.println("5730213003");
         System.out.println("5730213004");
         System.out.println("พ่อมึงตาย");
+        System.out.println("แม่มึงตายยย");
     }
     
 }
